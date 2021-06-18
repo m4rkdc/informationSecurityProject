@@ -3,6 +3,6 @@ Final report for the "Information Security M" course project done at the Univers
 The project regards IoT devices firmware security analysis and emulation and involves the analysis of State of the art tools like firmadyne and QEMU, as well as the assesment of newer tools (FirmAE) in the field
 
 # Special thanks to
-firmadyne: https://github.com/firmadyne/firmadyne 
-FirmAE: https://github.com/KILMYOJOON/FirmAE
+firmadyne: https://github.com/firmadyne/firmadyne <br/>
+FirmAE: https://github.com/KILMYOJOON/FirmAE <br/>
 QEMU: https://github.com/qemu/qemu
